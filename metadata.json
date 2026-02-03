@@ -1,0 +1,7 @@
+{
+  "name": "Berke'nin Sürprizi ❤️",
+  "description": "Özel birisi için hazırlanmış, etkileşimli ve eğlenceli bir sürpriz web sitesi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
